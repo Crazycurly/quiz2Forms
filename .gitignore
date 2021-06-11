@@ -1,0 +1,6 @@
+tmp/
+.vscode/settings.json
+upload.py
+Output.docx
+env/
+ghostdriver.log
