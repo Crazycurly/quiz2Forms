@@ -7,27 +7,27 @@
 
 # 使用教學
 
-## 1. 複製題庫答案至 Anser.txt
+## 1. 下載主程式 : [載點](https://github.com/Crazycurly/quiz2Forms/releases)
 
-![](Images/img2.gif)
+![](Images/img2.png)
+
+## 2. 解壓縮
+
+![](Images/img3.png)
+
+解壓縮後會有這些檔案
+
+## 3. 複製題庫答案至 Anser.txt
+
+![](Images/img4.gif)
 
 目前只能自動處理 ABCD 格式的答案，不是的可以建表後手動輸入。
 
-## 2. 清理 Word
+## 4. 清理 Word
 
-![](Images/img3.gif)
+![](Images/img5.gif)
 
 將題庫清理乾淨，只留下題目，答案、詳解全部刪除
-
-## 3. 下載主程式 : [載點](https://github.com/Crazycurly/quiz2Forms/releases)
-
-![](Images/img4.png)
-
-## 4. 解壓縮
-
-![](Images/img5.png)
-
-解壓縮後會有這些檔案
 
 ## 5. 上傳題庫至 Google Driver
 
